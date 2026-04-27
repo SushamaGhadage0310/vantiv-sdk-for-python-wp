@@ -17,9 +17,9 @@ This SDK was implemented to support the Python3 version 3.8 and later, and was c
 
 See LICENSE file for details on using this software.
 
-Source Code available from : https://github.com/Vantiv/vantiv-sdk-for-python.git
+Source Code available from : https://github.com/Worldpay/vantiv-sdk-for-python
 
-More examples can be found here https://github.com/Vantiv/vantiv-sdk-for-python/tree/12.x/samples
+More examples can be found here https://github.com/Worldpay/vantiv-sdk-for-python/tree/12.x/samples
 
 Detail documents can be found here http://vantivecommercepythonsdk.readthedocs.io/en/12.x/
 
@@ -43,7 +43,7 @@ Using pip
 
 Without Pip
 
->git clone https://github.com/Vantiv/vantiv-sdk-for-python.git
+>git clone https://github.com/Worldpay/vantiv-sdk-for-python
 
 >cd vantiv-sdk-for-python
 
