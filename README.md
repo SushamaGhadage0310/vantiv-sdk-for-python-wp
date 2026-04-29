@@ -21,8 +21,6 @@ Source Code available from : https://github.com/Worldpay/vantiv-sdk-for-python
 
 More examples can be found here https://github.com/Worldpay/vantiv-sdk-for-python/tree/12.x/samples
 
-Detail documents can be found here http://vantivecommercepythonsdk.readthedocs.io/en/12.x/
-
 Please contact [Vantiv eCommerce](http://support.worldpay.com/support/CNP-API/content/introduction.htm) to receive valid merchant credentials and determine which version of the SDK is right for your business requirements or if you require assistance in any other way.  You can reach us at sdksupport@worldpay.com
 
 Dependencies
