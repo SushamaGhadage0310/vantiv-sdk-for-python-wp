@@ -14,8 +14,8 @@ setup(
     version='12.49.0',
     description='Vantiv eCommerce Python SDK',
     author='Vantiv eCommerce',
-    author_email='SDKSupport@worldpay.com',
-    url='https://vantiv.github.io/python/',
+    author_email='sdksupport@worldpay.com',
+    url='https://worldpay.github.io/vantiv/python/',
     packages=['vantivsdk', 'scripts'],
     install_requires=[
         'xmlschema',
@@ -74,13 +74,13 @@ This SDK was implemented to support the Python3 version 3.8 and later, and was c
 
 See LICENSE file for details on using this software.
 
-Source Code available from : https://github.com/Vantiv/vantiv-sdk-for-python
+Source Code available from : https://github.com/Worldpay/vantiv-sdk-for-python
 
-Examples can be found here https://github.com/Vantiv/vantiv-sdk-for-python/tree/master/samples
+Examples can be found here https://github.com/Worldpay/vantiv-sdk-for-python/tree/12.x/samples
 
 Detail documents can be found here http://vantivecommercepythonsdk.readthedocs.io/en/latest/
 
-Please contact `Vantiv eCommerce`_  to receive valid merchant credentials and determine which version of the SDK is right for your business requirements or if you require assistance in any other way.  You can reach us at sdksupport@Vantiv.com
+Please contact `Vantiv eCommerce`_  to receive valid merchant credentials and determine which version of the SDK is right for your business requirements or if you require assistance in any other way.  You can reach us at sdksupport@worldpay.com
 
 Dependencies
 ------------
